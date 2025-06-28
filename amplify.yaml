@@ -1,6 +1,5 @@
 version: 1
 frontend:
-  rootDirectory: ./
   phases:
     preBuild:
       commands:
